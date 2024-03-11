@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6923A80A2B9F518300BA99F1 /* StudentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6923A8092B9F518300BA99F1 /* StudentView.swift */; };
 		692520F22B99007000319760 /* idkApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692520F12B99007000319760 /* idkApp.swift */; };
 		692520F42B99007000319760 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692520F32B99007000319760 /* ContentView.swift */; };
 		692520F62B99007200319760 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 692520F52B99007200319760 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6923A8092B9F518300BA99F1 /* StudentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentView.swift; sourceTree = "<group>"; };
 		692520EE2B99007000319760 /* idk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = idk.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		692520F12B99007000319760 /* idkApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = idkApp.swift; sourceTree = "<group>"; };
 		692520F32B99007000319760 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				692520F12B99007000319760 /* idkApp.swift */,
 				692520F32B99007000319760 /* ContentView.swift */,
 				692521092B9A3C2C00319760 /* StudentLogin.swift */,
+				6923A8092B9F518300BA99F1 /* StudentView.swift */,
 				6925210B2B9A3E3000319760 /* Start.swift */,
 				692520F52B99007200319760 /* Assets.xcassets */,
 				692520F72B99007200319760 /* Preview Content */,
@@ -164,6 +167,7 @@
 				6925210A2B9A3C2C00319760 /* StudentLogin.swift in Sources */,
 				692521062B9A113500319760 /* ViewModel.swift in Sources */,
 				6925210C2B9A3E3000319760 /* Start.swift in Sources */,
+				6923A80A2B9F518300BA99F1 /* StudentView.swift in Sources */,
 				692520F22B99007000319760 /* idkApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
